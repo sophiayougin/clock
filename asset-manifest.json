@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.33a0b2ae.chunk.css",
-    "main.js": "/my-app/static/js/main.da3db02c.chunk.js",
-    "main.js.map": "/my-app/static/js/main.da3db02c.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.60a8f16f.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.60a8f16f.js.map",
-    "static/js/2.47a2503d.chunk.js": "/my-app/static/js/2.47a2503d.chunk.js",
-    "static/js/2.47a2503d.chunk.js.map": "/my-app/static/js/2.47a2503d.chunk.js.map",
-    "static/js/3.1fd9dadb.chunk.js": "/my-app/static/js/3.1fd9dadb.chunk.js",
-    "static/js/3.1fd9dadb.chunk.js.map": "/my-app/static/js/3.1fd9dadb.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.33a0b2ae.chunk.css.map": "/my-app/static/css/main.33a0b2ae.chunk.css.map",
-    "static/js/2.47a2503d.chunk.js.LICENSE.txt": "/my-app/static/js/2.47a2503d.chunk.js.LICENSE.txt"
+    "main.css": "/clock/static/css/main.33a0b2ae.chunk.css",
+    "main.js": "/clock/static/js/main.da3db02c.chunk.js",
+    "main.js.map": "/clock/static/js/main.da3db02c.chunk.js.map",
+    "runtime-main.js": "/clock/static/js/runtime-main.600391ef.js",
+    "runtime-main.js.map": "/clock/static/js/runtime-main.600391ef.js.map",
+    "static/js/2.47a2503d.chunk.js": "/clock/static/js/2.47a2503d.chunk.js",
+    "static/js/2.47a2503d.chunk.js.map": "/clock/static/js/2.47a2503d.chunk.js.map",
+    "static/js/3.1fd9dadb.chunk.js": "/clock/static/js/3.1fd9dadb.chunk.js",
+    "static/js/3.1fd9dadb.chunk.js.map": "/clock/static/js/3.1fd9dadb.chunk.js.map",
+    "index.html": "/clock/index.html",
+    "static/css/main.33a0b2ae.chunk.css.map": "/clock/static/css/main.33a0b2ae.chunk.css.map",
+    "static/js/2.47a2503d.chunk.js.LICENSE.txt": "/clock/static/js/2.47a2503d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.60a8f16f.js",
+    "static/js/runtime-main.600391ef.js",
     "static/js/2.47a2503d.chunk.js",
     "static/css/main.33a0b2ae.chunk.css",
     "static/js/main.da3db02c.chunk.js"
